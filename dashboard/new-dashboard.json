@@ -27,7 +27,6 @@
       }
     ],
     "cursorSync": "Off",
-    "description": "",
     "editable": true,
     "elements": {
       "panel-1": {
@@ -55,10 +54,10 @@
               "transformations": []
             }
           },
-          "description": "",
+          "description": "the new description",
           "id": 1,
           "links": [],
-          "title": "New panel",
+          "title": "Panel Test",
           "vizConfig": {
             "group": "timeseries",
             "kind": "VizConfig",
